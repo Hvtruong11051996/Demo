@@ -3,7 +3,6 @@
 1- Lỗi ảnh.
 
 # làm thêm chức năng :
-
 1- Click slider bar thì selected slider item.
 2- làm trang login  -> khi click icon login
 3- chuyển trang khi click slider bar
